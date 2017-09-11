@@ -88,13 +88,13 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [Saveen Dhiman] original Author
 
 
-[Donate $5]: 		  https://www.paypal.me/saveendhiman/5
-[Donate $10]:  		https://www.paypal.me/saveendhiman/10
-[Donate $15]:  		https://www.paypal.me/saveendhiman/15
-[Donate $25]:  		https://www.paypal.me/saveendhiman/25
-[Donate $50]: 		https://www.paypal.me/saveendhiman/50
-[Donate $100]: 		https://www.paypal.me/saveendhiman/100
-[Donate $2799]: 	https://www.paypal.me/saveendhiman/2799
+[Donate $5]: 		  https://www.paypal.me/vsojitra259/5
+[Donate $10]:  		https://www.paypal.me/vsojitra259/10
+[Donate $15]:  		https://www.paypal.me/vsojitra259/15
+[Donate $25]:  		https://www.paypal.me/vsojitra259/25
+[Donate $50]: 		https://www.paypal.me/vsojitra259/50
+[Donate $100]: 		https://www.paypal.me/vsojitra259/100
+[Donate $2799]: 	https://www.paypal.me/vsojitra259/2799
 
 [Saveen Dhiman]:  https://github.com/saveendhiman
 
